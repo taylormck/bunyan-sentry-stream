@@ -1,5 +1,5 @@
 {
-  "name": "bunyan-sentry-stream",
+  "name": "@bv/bunyan-sentry-stream",
   "version": "1.0.2",
   "description": "Write log to Sentry/Raven by using Bunyan",
   "keywords": [
